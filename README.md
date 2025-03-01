@@ -25,7 +25,7 @@ NFT Warranty is a blockchain-based warranty management system that utilizes NFTs
 
 ## Smart Contract
 
-- **Contract Address**: `0xDdB2255528C6D3d8418968704C5B26590b75413B`
+- **Contract Address (Sepolia)**: `0xDdB2255528C6D3d8418968704C5B26590b75413B`
 - **Etherscan Link**: [https://sepolia.etherscan.io/address/0xDdB2255528C6D3d8418968704C5B26590b75413B](https://sepolia.etherscan.io/address/0xDdB2255528C6D3d8418968704C5B26590b75413B)
 
 ## Project Domain
