@@ -46,7 +46,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone <https://github.com/YashK-194/nft-warranty.git>
+   git clone https://github.com/YashK-194/nft-warranty.git
    cd nft-warranty
    ```
 
@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, reach out via GitHub or email at `yashkm194@gmail.com`.
+For any inquiries, reach out via GitHub, LinkedIn: [linkedin.com/in/yashk194](https://www.linkedin.com/in/yashk194/) or email at `yashkm194@gmail.com`.
