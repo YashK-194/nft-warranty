@@ -30,7 +30,7 @@ NFT Warranty is a blockchain-based warranty management system that utilizes NFTs
 
 ## Project Domain
 
-- **Live Application**: [nft-warranty-yashk.vercel.app](nft-warranty-yashk.vercel.app)
+- **Live Application**: [nft-warranty-yashk.vercel.app](https://nft-warranty-yashk.vercel.app/)
 
 ## Installation and Setup
 
