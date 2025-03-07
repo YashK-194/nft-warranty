@@ -47,13 +47,13 @@ npx hardhat node
 ### 4. Deploy Smart Contracts (Using Hardhat Ignition)
 
 ```sh
-npx hardhat ignition deploy --network localhost
+npx hardhat ignition deploy ignition/modules/Warranty.js --network localhost
 ```
 
 ### 5. Deploy to a Testnet (e.g., Sepolia)
 
 ```sh
-npx hardhat ignition deploy --network sepolia
+npx hardhat ignition deploy ignition/modules/Warranty.js --network sepolia
 ```
 
 ### 6. Verify Smart Contract on Etherscan
