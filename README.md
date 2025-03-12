@@ -2,7 +2,7 @@
 
 ## Overview
 
-NFT Warranty is a blockchain-based warranty management system that utilizes NFTs to represent warranties. The project is built using Solidity and integrates with a Next.js frontend for seamless interaction.
+NFT Warranty is a Dapp for blockchain-based warranty management system that utilizes NFTs to represent warranties. The project is built using Solidity and integrates with a Next.js frontend for seamless interaction.
 
 ## Project Domain
 
