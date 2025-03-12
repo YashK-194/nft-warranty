@@ -4,6 +4,10 @@
 
 NFT Warranty is a blockchain-based warranty management system that utilizes NFTs to represent warranties. The project is built using Solidity and integrates with a Next.js frontend for seamless interaction.
 
+## Project Domain
+
+- **Live Application**: [nft-warranty-yashk.vercel.app](https://nft-warranty-yashk.vercel.app/)
+
 ## Features
 
 - **Smart Contracts**: Developed in Solidity to manage warranty issuance and verification.
@@ -28,9 +32,6 @@ NFT Warranty is a blockchain-based warranty management system that utilizes NFTs
 - **Contract Address (Sepolia)**: `0xDdB2255528C6D3d8418968704C5B26590b75413B`
 - **Etherscan Link**: [https://sepolia.etherscan.io/address/0xDdB2255528C6D3d8418968704C5B26590b75413B](https://sepolia.etherscan.io/address/0xDdB2255528C6D3d8418968704C5B26590b75413B)
 
-## Project Domain
-
-- **Live Application**: [nft-warranty-yashk.vercel.app](https://nft-warranty-yashk.vercel.app/)
 
 ## Installation and Setup
 
